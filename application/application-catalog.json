@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 3,
+  "applications": [
+    {
+      "id": "com.byghitech.bg_pos_price_checker",
+      "name": "BiG Price Checker",
+      "localizedNames": {
+        "en": "BiG Price Checker",
+        "es": "BiG Price Checker"
+      },
+      "platform": "android",
+      "version": "1.4.2",
+      "versionCode": 100,
+      "packageFileName": "checkout.apk",
+      "packageUrl": null,
+      "sha256": null,
+      "size": 10485760,
+      "iconUrl": null
+    }
+  ]
+}
