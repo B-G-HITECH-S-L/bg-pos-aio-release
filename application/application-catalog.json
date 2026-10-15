@@ -9,12 +9,12 @@
         "es": "BiG Price Checker"
       },
       "platform": "android",
-      "version": "1.4.2",
-      "versionCode": 100,
-      "packageFileName": "BiG Price Checker.apk",
-      "packageUrl": null,
-      "sha256": null,
-      "size": 10485760,
+      "version": "0.1.0",
+      "versionCode": 1,
+      "packageFileName": "big-price-checker.apk",
+      "packageUrl": "https://github.com/B-G-HITECH-S-L/bg-pos-price-checker-release/releases/download/v0.1.0/big-price-checker.apk",
+      "sha256": "63676aeba3dd0a0291e8b55b5be9cec4bb4780efdd99f29110bd08b4023a441e",
+      "size": 43461008,
       "iconUrl": null
     }
   ]
