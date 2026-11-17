@@ -1,0 +1,8 @@
+version: 0.2.18
+files:
+  - url: https://github.com/B-G-HITECH-S-L/bg-pos-aio-release/releases/download/v-0.2.18/BiG-AIO-0.2.18-x64-setup.exe
+    sha512: h9I3q6/6o5kvkXr54OGamRrvc+o0UoDCVE55Oy0opLONXpJfJaR05Kbo+dXsSdLbsRE92ylU048IaOtDSp9exQ==
+    size: 213133751
+path: BiG-AIO-0.2.18-x64-setup.exe
+sha512: h9I3q6/6o5kvkXr54OGamRrvc+o0UoDCVE55Oy0opLONXpJfJaR05Kbo+dXsSdLbsRE92ylU048IaOtDSp9exQ==
+releaseDate: '2026-11-17T11:42:22.508Z'
