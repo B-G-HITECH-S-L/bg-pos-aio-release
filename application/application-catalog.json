@@ -27,11 +27,11 @@
       "platform": "android",
       "packageFileName": "big-retail.apk",
       "iconUrl": null,
-      "version": "1.0.4",
-      "versionCode": 1004,
-      "packageUrl": "https://github.com/B-G-HITECH-S-L/bg-classic-shop-app-release/releases/download/v1.0.4/big-retail.apk",
-      "sha256": "8aec31ec742499976c6b6b32b9acffa623417ab677a34c05983b7ba49eab7a32",
-      "size": 84083959
+      "version": "1.0.5",
+      "versionCode": 1005,
+      "packageUrl": "https://github.com/B-G-HITECH-S-L/bg-classic-shop-app-release/releases/download/v1.0.5/big-retail.apk",
+      "sha256": "b42bae90b7bc7015ce49b9bc513e263ff5a9ca0818574355e0ab1cdf7281d371",
+      "size": 84280447
     }
   ]
 }
