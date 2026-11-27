@@ -1,0 +1,8 @@
+version: 0.2.22
+files:
+  - url: https://github.com/B-G-HITECH-S-L/bg-pos-aio-release/releases/download/v-0.2.22/BiG-AIO-0.2.22-x64-setup.exe
+    sha512: XHF1Eka8icg14z/c9bf8KJzVE49XbWhbL/pD/u1e2wvWLf5ek6zewNk4jGqqmyfUKR9rppeyVCjpx4JQ6AylBQ==
+    size: 213164461
+path: BiG-AIO-0.2.22-x64-setup.exe
+sha512: XHF1Eka8icg14z/c9bf8KJzVE49XbWhbL/pD/u1e2wvWLf5ek6zewNk4jGqqmyfUKR9rppeyVCjpx4JQ6AylBQ==
+releaseDate: '2026-11-27T03:36:56.316Z'
